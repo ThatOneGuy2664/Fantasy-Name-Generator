@@ -2,8 +2,8 @@ const prefixes = [
     "Xa", "Ny", "Ze", "Va", "Tor", "Ja", "Na", "Ma", "Pa", "Ra", "Ka", "Lo", "El", "Ri", "Da", "Thal",
     "Gre", "Zan", "Kel", "Vor", "Ty", "Lun", "Sha", "Dru", "Gal", "Eld", "Fen", "Syl", "Aer", "Mor",
     "Stron", "Hel", "Oli", "Trev", "Gor", "Wil", "Bran", "Xel", "Or", "Drak", "Vel", "Kry", "Jor",
-    "Mar", "Car", "Bar", "Om", "Ero", "Thorne", "Ald", "Vey"
-]; // 51
+    "Mar", "Car", "Bar", "Om", "Ero", "Thorne", "Ald", "Vey", "Vay", "Po" 
+]; // 53
 
 const suffixes = [
     "ron", "mir", "lith", "dar", "zath", "ion", "mar", "vyn", "thar", "wen", "thos", "ius", "bor",
